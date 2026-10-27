@@ -1,0 +1,439 @@
+# 奇门遁甲资料索引库：阴盘 / 天师 / 道家
+
+创建日期：2026-10-27；条目总数：56；搜索方向：5；成功 5，失败 0。
+
+本库是索引库，不是文件托管库：未下载、未上传、未转载托管任何文件。标为 copyrighted_do_not_rehost 的现代商业作品只记书目与来源。
+
+## 统计
+
+- 阴盘奇门遁甲：15 条
+- 道家奇门遁甲：11 条
+- 奇门遁甲 古籍 经典 公开资料：12 条
+- 奇门遁甲 PDF GitHub 开源资料：12 条
+- 天师奇门遁甲：6 条
+
+- 类型 github_repo：13 条
+- 类型 book：2 条
+- 类型 pdf：7 条
+- 类型 webpage：19 条
+- 类型 other：2 条
+- 类型 video：2 条
+- 类型 course：3 条
+- 类型 classical_text：7 条
+- 类型 forum_post：1 条
+
+- 可直接访问 free_open：36 条；付费 paid：8 条；未知 unknown：12 条
+- 版权：unknown 27 条；copyrighted_do_not_rehost 19 条；open_license 9 条；public_domain 1 条
+- 保留 pdf_url 的条目：4 条，2026-10-27 复核时 4 条均可打开，其中第 15 条仅为预览节选，见各条 notes。
+
+## 覆盖缺口（重要）
+
+- 没有找到标题恰好为“天师奇门遁甲”的可验证书籍、PDF 或 GitHub 仓库，天师方向 6 条均为近似匹配，相关度最高为 medium。
+- “天师阴盘奇门预测篇”是阴盘方向下的一条付费预览节选，2026-10-27 复核仅打开 233 行节选文本，未验证全文。
+- 没有找到覆盖阴盘、天师、道家三派的统一网盘或 GitHub 合集。
+
+## 阴盘奇门遁甲
+
+### 1. wrz1911/daojiayinpan: 道家阴盘奇门遁甲排盘系统，支持多种模式
+
+- 来源：wrz1911 / GitHub；类型：github_repo；语言：zh-CN；相关度：high；访问：free_open；版权：open_license
+- 链接：https://github.com/wrz1911/daojiayinpan
+- 简介：道家阴盘奇门遁甲排盘系统，提供时盘、刻盘、心盘、山向奇门、穿壬、命理奇门六种盘型，桌面、手机、网页共用同一排盘内核。
+- 备注：已打开验证：公开仓库，MIT协议，3 stars，2 forks，400 commits，5 releases，创建于2026-09-13；README称与第三方实现对拍五千万项、零不一致。
+
+### 2. magiclaw/yinpan-qimen-dunjia: 阴盘奇门遁甲排盘｜时盘、刻盘、真太阳时、自动定局｜若轩 · 轩辕国学出品
+
+- 来源：若轩 / GitHub；类型：github_repo；语言：zh-CN；相关度：high；访问：free_open；版权：open_license
+- 链接：https://github.com/magiclaw/yinpan-qimen-dunjia
+- 简介：阴盘奇门遁甲排盘工具，支持时盘、刻盘、自动定局、自选局数和真太阳时，计算在浏览器本地完成，并附14个回归样例。
+- 备注：已打开验证：公开仓库，MIT协议，0 stars，1 commit，创建于2026-10-24；作者为若轩，关联轩辕国学官网。
+
+### 3. 陰盤奇門遁甲真的很神奇
+
+- 来源：李羽宸、黄恒堉 / 進源出版社 / 三民網路書店；类型：book；语言：zh-TW；相关度：high；访问：paid；版权：copyrighted_do_not_rehost
+- 链接：https://www.sanmin.com.tw/product/index/007670559
+- 简介：分理论篇、教学篇、秘法篇和实务诊断布局篇，讲解阴盘奇门用神类象、时盘与刻盘排盘、四害化解、拆补移换合通关及催财、催桃花、催文昌等布局。
+- 备注：已打开验证：ISBN 9789869831826，2020/04/10出版，平装527页，售价630 TWD，有货；现代商业出版物，勿转载托管。
+
+### 4. 《道家阴盘奇门遁甲》 理论与化解应用 子辰师兄著 PDF 346页
+
+- 来源：子辰师兄 / 学易网 xueyizone.com；类型：pdf；语言：zh-CN；相关度：high；访问：paid；版权：copyrighted_do_not_rehost
+- 链接：https://xueyizone.com/download/qimen/13618.html
+- 简介：详细讲解阴盘奇门的理论与实操，包括预测步骤、取用神、四害化解、中药调理、催桃花、文昌布局、补财库、还阴债及符咒画法等，并附案例分析。
+- 备注：已打开验证：346页，查看价格6学分，下载经百度网盘群组；未验证直接PDF链接，pdf_url留空，未下载；现代作者作品，勿转载托管。
+
+### 5. 李羽宸 黄恒堉合撰《阴盘奇门遁甲真的很神奇》PDF版 515页
+
+- 来源：李羽宸、黄恒堉 / 学易网 xueyizone.com；类型：pdf；语言：zh-CN；相关度：high；访问：paid；版权：copyrighted_do_not_rehost
+- 链接：https://xueyizone.com/download/qimen/15274.html
+- 简介：PDF版515页，目录涵盖奇门概论、基本知识、用神类象、旺衰诀、择吉择日、排盘教学、四害化解、拆补移换合通关及实务布局。
+- 备注：已打开验证：515页，下载价格6学分，经百度网盘群组获取；未验证直接PDF链接，pdf_url留空，未下载；与三民书店527页纸质版页数表述不同，以各自页面为准。
+
+### 6. 阴盘奇门《道家阴盘奇门遁甲》8册
+
+- 来源：子辰 / 古籍屋 gujiwu.cn；类型：webpage；语言：zh-CN；相关度：high；访问：paid；版权：copyrighted_do_not_rehost
+- 链接：https://www.gujiwu.cn/yixue/68010.html
+- 简介：一套8册PDF电子版合集，包括理论与化解应用、锁单宫培训班教材、时空局预测化解技法、终身局、预测、化解、组象运筹化解和穿壬预测化解等内容。
+- 备注：已打开验证：价格25元（单册8元），标注PDF电子版一套8册；为付费资料聚合销售页，未验证直接PDF链接，未下载。
+
+### 7. 阴盘奇门_国学资料馆
+
+- 来源：国学资料馆 guoxueziliao.com；类型：webpage；语言：zh-CN；相关度：high；访问：unknown；版权：copyrighted_do_not_rehost
+- 链接：https://www.guoxueziliao.com/tag/yinpanqimen?geshi=pdf
+- 简介：阴盘奇门PDF标签合集页，列出多部相关电子书，包括王凤麟、于城道人、玄蒙法师、子辰、黄连池、黄恒堉等人的教材与合集。
+- 备注：已打开验证：列出15项，页数示例包括397页、384页、141页、547页、259页、216页、406页、346页、554页、515页、616页、397页、266页等；为聚合分享页，个别链接未逐一打开，未下载。
+
+### 8. 黄连池《道家阴盘奇门遁甲理论与实务非看不可》616页
+
+- 来源：黄连池 / 古籍汇典 guoxuezhai.com；类型：pdf；语言：zh-CN；相关度：high；访问：unknown；版权：copyrighted_do_not_rehost
+- 链接：https://guoxuezhai.com/64636.html
+- 简介：616页PDF电子书，介绍道家阴盘奇门遁甲的理论与实务，页面摘要提及序言与传承论述。
+- 备注：仅见于DDGS搜索摘要；直接打开该页返回403，未能验证正文，未验证直接PDF链接，pdf_url留空，未下载；现代作者作品，勿转载托管。
+
+### 9. 李羽宸、黄恒堉 阴盘奇门遁甲
+
+- 来源：李羽宸、黄恒堉 / Scribd；类型：other；语言：zh-CN；相关度：high；访问：unknown；版权：copyrighted_do_not_rehost
+- 链接：https://www.scribd.com/document/729069351/李羽宸-黄恒堉-阴盘奇门遁甲
+- 简介：Scribd上的阴盘奇门遁甲培训初、中、高阶上课讲义，摘要称由浅入深讲解入门、解盘与方案，关联中国五术教育协会等机构。
+- 备注：仅见于DDGS搜索摘要；直接打开该页返回400，未能验证正文与页数，未下载；现代培训讲义，勿转载托管。
+
+### 10. 《道家阴盘奇门遁甲》146集
+
+- 来源：哔哩哔哩 UP主（页面未显示作者名） / bilibili.com；类型：video；语言：zh-CN；相关度：high；访问：free_open；版权：unknown
+- 链接：https://www.bilibili.com/zh-Hans/video/BV1GSG16SEnQ/
+- 简介：146集视频课程目录，涵盖阴阳五行、河图洛书、八卦、三奇六仪、八门、九星、八神、穿壬排盘、四害化解、婚恋、财运、疾病、官运与风水布局等内容。
+- 备注：已打开验证：页面发布于2026-05-27，列出001至146集目录，称完整146集需联系UP主；未核实全部集数是否公开可看。
+
+### 11. 佛易老师阴盘奇门 婚姻 格局 风水禁忌 择日详解 视频44集+课件 百度云下载！
+
+- 来源：佛易老师 / 周易教程网 2478.net；类型：course；语言：zh-CN；相关度：high；访问：unknown；版权：copyrighted_do_not_rehost
+- 链接：https://www.2478.net/172172.html
+- 简介：44集视频加课件，讲解阴盘奇门遁甲的预测与应用，包括基础、起局、三奇六仪、八门九星、格局、婚姻、疾病、风水、择日等主题。
+- 备注：已打开验证：页面列出44个MP4文件及图片课件，称资源经百度网盘下载，站内声明资源来自互联网收集或用户上传；疑似盗版聚合页，仅记录不下载。
+
+### 12. Yin Pan Qi Men Dun Jia: Not Fortune Telling, But a Strategic System for Modern Decision-Making
+
+- 来源：gzrhmy / Medium；类型：webpage；语言：en；相关度：high；访问：free_open；版权：unknown
+- 链接：https://medium.com/@gzrhmy/yin-pan-qi-men-dun-jia-not-fortune-telling-but-a-strategic-system-for-modern-decision-making-ae8bf301a89b
+- 简介：英文文章把阴盘奇门遁甲介绍为以取象直读为核心的现代决策系统，强调符号、时空与情境的动态解读，并提及新加坡Qimen Strategy及其创办人黄启明。
+- 备注：已打开验证：2026-05-14发布，约5分钟阅读；为观点介绍文章，非教材或排盘工具。
+
+### 13. Expose the false Taoist inheritance identity of Yin Pan Qimen and the so-called actual combat truth!
+
+- 来源：laitimes.com；类型：webpage；语言：en；相关度：high；访问：free_open；版权：unknown
+- 链接：https://www.laitimes.com/en/article/785tf_7oi1y.html
+- 简介：英文批评文章质疑阴盘奇门所谓道家传承身份与实战说法，讨论王凤麟自称唯一传承人的主张，并引用其公开实战记录进行反驳。
+- 备注：已打开验证：为质疑性评论，非中立教材；内容涉及对王凤麟传承说法的争议，阅读时需注意其立场。
+
+### 14. 玄蒙法师《阴盘法术奇门面授班教材》141页电子版
+
+- 来源：玄蒙法师 / gxzlw.com；类型：pdf；语言：zh-CN；相关度：high；访问：unknown；版权：copyrighted_do_not_rehost
+- 链接：https://www.gxzlw.com/wp-content/uploads/2021/04/玄蒙法师《阴盘法术奇门面授班教材》141页电子版.pdf
+- PDF 链接：https://www.gxzlw.com/wp-content/uploads/2021/04/玄蒙法师《阴盘法术奇门面授班教材》141页电子版.pdf
+- 简介：141页阴盘法术奇门面授班教材电子版，搜索摘要显示目录包括阴盘遁甲起局、基础、翻宫法、应期、用神、化解、催财催官、功法与符咒等章节。
+- 备注：2026-10-27 复核：PDF 链接可打开，提取文本显示为阴盘法术奇门教材，含推广水印；未下载该文件；现代面授教材，勿转载托管。原为仅见于搜索结果与国学资料馆同名条目。
+
+### 15. 天师阴盘奇门预测篇
+
+- 来源：pdf.fengshui86.com；类型：pdf；语言：zh-CN；相关度：high；访问：paid；版权：copyrighted_do_not_rehost
+- 链接：https://pdf.fengshui86.com/yjpdf/hv_008182.pdf
+- PDF 链接：https://pdf.fengshui86.com/yjpdf/hv_008182.pdf
+- 简介：标题为天师阴盘奇门预测篇的PDF页面，搜索摘要显示其中有找用神的问话示例，并标注查看完整版需付费下载。
+- 备注：2026-10-27 复核：PDF 链接可打开，但提取文本仅 233 行，为预测篇节选，结尾为查看完整版／付费下载推广；署名周纳羽-仙狐道人，第一篇为预测篇；版权与完整性不明，勿转载托管。
+
+## 道家奇门遁甲
+
+### 16. 感悟儒教、道教奇門遁甲修行簡法之四（道經每日清修系列）
+
+- 来源：unknown / GetIt01；类型：webpage；语言：zh-TW；相关度：high；访问：free_open；版权：unknown
+- 链接：https://www.getit01.com/p201806032616939/
+- 简介：文章主張奇門遁甲不只用於預測或法術奇門，並講解瞬間起局速算基礎、三奇六儀、九星八門，以及每日打坐觀想時家奇門局與二十八宿的修行法。内容直接以儒道修行为框架，介绍起局步骤与观想仪轨。
+- 备注：页面已用 browser.open 验证；标题含道教奇门遁甲，是最贴近输入词的结果之一。未见作者与页数信息。
+
+### 17. 心翳道家奇门视频课程 32集
+
+- 来源：心翳老师 / ziyuanvip.cn；类型：course；语言：zh-CN；相关度：high；访问：paid；版权：copyrighted_do_not_rehost
+- 链接：https://www.ziyuanvip.cn/thread-935-1-1.html
+- 简介：32集道家奇门视频课程，目录包括奇门历史与原理、河图洛书、五行地支、九宫、十天干象义、八神九星八门、四害、用神系统与测事业婚姻健康等。页面只列出目录，未验证视频内容本身。
+- 备注：搜索结果显示需支付90个资源币才能浏览付费内容；属现代付费课程 listing，未下载、未转载。仅通过搜索结果验证，未用 browser.open 打开。
+
+### 18. 最牛阴盘奇门遁甲 乾圣真宗道家阴盘奇门预测运筹 35集
+
+- 来源：unknown / ziyuanvip.cn；类型：course；语言：zh-CN；相关度：high；访问：paid；版权：copyrighted_do_not_rehost
+- 链接：https://www.ziyuanvip.cn/thread-933-1-1.html
+- 简介：35集乾圣真宗道家阴盘奇门课程，分初级、中级、高级与活坐标四部分，内容含踏罡步斗、九字真言与法印、化解门迫与击刑，以及多个运筹实例。页面只列出课程目录与简介，未验证视频内容。
+- 备注：搜索结果显示需支付100个资源币；属现代付费课程 listing，未下载、未转载。仅通过搜索结果验证，未用 browser.open 打开。
+
+### 19. 道家奇门实用手册 | PDF - Scribd
+
+- 来源：unknown / Scribd；类型：webpage；语言：zh-CN；相关度：high；访问：unknown；版权：copyrighted_do_not_rehost
+- 链接：https://www.scribd.com/document/919396900/道家奇门实用手册
+- 简介：DDGS 搜索结果显示该文档为《道家奇门实用手册》，摘要涉及宫干门星神、伏吟与反吟等奇门内容。未打开该页面验证全文，PDF 链接亦未验证。
+- 备注：仅由 DDGS 搜索结果验证，未用 browser.open 打开；Scribd 文档的授权与可下载性不明，pdf_url 留空，未下载。标题与道家奇门直接相关。
+
+### 20. 奇門遁甲統宗
+
+- 来源：unknown / 維基文庫；类型：classical_text；语言：zh-TW；相关度：high；访问：free_open；版权：unknown
+- 链接：https://zh.wikisource.org/zh-hant/%E5%A5%87%E9%96%80%E9%81%81%E7%94%B2%E7%B5%B1%E5%AE%97
+- 简介：维基文库收录的奇门古籍，全书十二卷，含总赋、起例、超接置闰、阴阳遁局、玄机赋等，系统讲解九宫、九星、八门、八神与格局。页面已打开验证，目录与正文可见。
+- 备注：已用 browser.open 验证，页面共1497行；页面未显示明确授权声明，故版权状态记为 unknown，未断言公有领域。
+
+### 21. 遁甲演義
+
+- 来源：程道生；类型：classical_text；语言：zh-TW；相关度：high；访问：free_open；版权：unknown
+- 链接：https://zh.wikisource.org/zh-hant/%E9%81%81%E7%94%B2%E6%BC%94%E7%BE%A9
+- 简介：明代程道生撰、四卷，清代收入《四库全书》，阐述奇门遁甲义理，含源流、年家月家日家时家奇门、烟波钓叟赋与三遁等，并大量引用道家符篆咒语。页面已打开验证。
+- 备注：已用 browser.open 验证，页面共960行；前言称最晚引万历四十二年（1613年）。页面未显示明确授权声明，故记为 unknown。
+
+### 22. 《奇门遁甲全书》-道学支柱之术数道学-大道家园
+
+- 来源：大道家园；署刘伯温（刘基）；类型：webpage；语言：zh-CN；相关度：high；访问：free_open；版权：unknown
+- 链接：http://www.dadaojiayuan.com/ddjy_66/566.html
+- 简介：大道家园刊载的《奇门遁甲秘籍大全》卷一等全文，含总序、烟波钓叟歌、总要诀、阴阳遁起例与十干克应、天蓬等九星内容。页面标示林育名大师，序文署刘基伯温。
+- 备注：已用 browser.open 验证，页面共1272行；为网站转载的古籍文本，版权状态不明，记为 unknown，未提供 PDF 链接。
+
+### 23. 奇門遁甲(玄學)
+
+- 来源：中文百科全書 / newton.com.tw；类型：webpage；语言：zh-TW；相关度：high；访问：free_open；版权：unknown
+- 链接：https://newton.com.tw/wiki/%E5%A5%87%E9%96%80%E9%81%81%E7%94%B2/1071
+- 简介：中文百科全书词条称《奇门遁甲》为黄老道家最高层次的预测学，介绍起源、三奇八门、九遁、八门吉凶、三奇应克与定局方法，并附《术藏》所列古今奇门书典表。
+- 备注：已用 browser.open 验证，页面共1243行；词条性质为百科介绍，非原典全文。
+
+### 24. 逍遥遁甲—茅山奇门秘籍
+
+- 来源：unknown / Internet Archive，上传者 Bright LV；类型：webpage；语言：zh-CN；相关度：high；访问：free_open；版权：unknown
+- 链接：https://archive.org/details/20210924_20210924_1933
+- 简介：Internet Archive 上的茅山奇门文献条目，主题标为奇门遁甲，语言为中文，档案大小374.1M，页面显示有 PDF 等下载选项。茅山属道家流派，故与道家奇门相关。
+- 备注：已用 browser.open 验证条目页，显示1,032次浏览、2021-09-24上传；页面虽列出 PDF 选项，但直接 PDF 链接未在抓取文本中验证，故 pdf_url 留空，未下载。来源与版权不明，记为 unknown。
+
+### 25. 奇门遁甲古籍大全 - 原文在线阅读与PDF免费下载 | 古籍典藏
+
+- 来源：古籍典藏 / luckclub.cn；类型：webpage；语言：zh-CN；相关度：high；访问：free_open；版权：unknown
+- 链接：https://luckclub.cn/qimen/
+- 简介：该站收录7部奇门古籍、共94章节，含《奇门遁甲秘笈大全》《奇门遁甲统宗大全》《奇门遁甲元灵经》《奇门法窍》《御定奇门宝鉴》等，称提供原文阅读、白话译文与 PDF 下载。
+- 备注：已用 browser.open 验证，页面称全部内容免费阅读、PDF 含网站水印；直接 PDF 链接未验证，故 pdf_url 留空。网站性质与文本底本不明，记为 unknown。
+
+### 26. 《奇门遁甲秘笈大全》清光绪本影印整理版分享
+
+- 来源：unknown / 青阳阁；类型：forum_post；语言：zh-CN；相关度：high；访问：unknown；版权：unknown
+- 链接：https://QINGYANGGE.COM/bbs/detail/120.html
+- 简介：论坛帖称分享清光绪二十九年（1903）金陵刻本《奇门遁甲秘笈大全》影印整理版，介绍卷一至卷八的起局、格局、用神内容与阅读建议，并提醒核对正版影印本。
+- 备注：已用 browser.open 验证，帖子日期2026-10-09，147次浏览；帖中称正版由中华书局出版、ISBN 978-7-101-13288-5，该说法未经独立验证。页面含微信登录与支付提示，实际获取方式不明，故 access 记为 unknown。
+
+## 奇门遁甲 古籍 经典 公开资料
+
+### 27. 《遁甲演义》明程道生撰-易学应用-大道家园
+
+- 来源：明 程道生 撰 / 大道家园；类型：classical_text；语言：zh-CN；相关度：high；访问：free_open；版权：public_domain
+- 链接：http://www.dadaojiayuan.com/ddjy_42/214.html
+- 简介：全文刊载明代程道生《遁甲演义》四卷，含遁甲源流、年家月家日家时家奇门、烟波钓叟赋及超神接气置闰等内容。页面说明该书撰于明末，清代收入《四库全书》。
+- 备注：页面已打开核实，共810行文本；明代原著、四库全书收录，可作为公有领域古籍文本的依据。未见PDF直链。
+
+### 28. 御定奇門遁甲寶鑒 : 奇門寶鑒御定 - Chinese Text Project
+
+- 来源：Chinese Text Project (ctext.org)；类型：classical_text；语言：zh-TW；相关度：high；访问：free_open；版权：unknown
+- 链接：https://ctext.org/wiki.pl?if=en&chapter=250961
+- 简介：中国哲学书电子化计划收录的《御定奇门遁甲宝鉴》文本，搜索摘要显示其首章为奇门源流，并论六仪遁六甲、符头、直符直使等起局内容。
+- 备注：browser.open返回反抓取验证页，未能直接读取正文，仅以搜索摘要核实标题与章节内容；未宣称公有领域。未见PDF直链。
+
+### 29. 奇門遁甲秘笈大全 : 卷二十五 - Chinese Text Project
+
+- 来源：Chinese Text Project (ctext.org)；类型：classical_text；语言：zh-CN；相关度：high；访问：free_open；版权：unknown
+- 链接：https://ctext.org/wiki.pl?if=en&chapter=889554&remap=gb
+- 简介：中国哲学书电子化计划收录的《奇门遁甲秘笈大全》卷二十五，搜索摘要显示内容包括游门、地兵法、黄旛虎尾、雷公、五行相制负法、三胜宫与五不击宫等。
+- 备注：browser.open返回反抓取验证页，未能直接读取正文，仅以搜索摘要核实标题与卷二十五内容；未见PDF直链。
+
+### 30. Qi Men Dun Jia Mi Ji Da Quan (奇門遁甲秘笈大全): Chinese Text with English Translation | Libo
+
+- 来源：Libo (libokang.com)，署名明·刘伯温；类型：classical_text；语言：en, zh-CN；相关度：high；访问：free_open；版权：unknown
+- 链接：https://libokang.com/en/classics/qimen/the-complete-secret-manual-of-qimen-dunjia/
+- 简介：逐段对照刊载《奇门遁甲秘笈大全》中文原文与英文译文，已打开页面显示总序论九宫、八卦、阴阳二遁、直符直使、伏吟反吟及九遁等内容。
+- 备注：页面已打开核实，文本长达10670行；现代英译的许可未在页面显示，故版权状态标unknown，不可据此转存。未见PDF直链。
+
+### 31. Interpretation of Qimen Dunjia (遁甲演義) — Classical Chinese Text
+
+- 来源：Book of Changes Academy，作者程道生；类型：classical_text；语言：en, zh-CN；相关度：high；访问：unknown；版权：unknown
+- 链接：https://bookofchanges.academy/texts/dunjia-yanyi
+- 简介：据DDGS摘要，该站提供程道生《遁甲演义》的双语古典文本，称其为四卷本、四库全书收录的奇门遁甲论著，并有卷一遁甲源流及日时家奇门分章。
+- 备注：仅DDGS结果核实；browser.open返回HTTP 429，未能打开页面核实正文与访问方式。未见PDF直链。
+
+### 32. 奇門遁甲之煙波釣叟歌串解（值得收藏） - 易師匯傳統文化
+
+- 来源：易师汇传统文化 (yishihui.net)；类型：webpage；语言：zh-TW；相关度：high；访问：free_open；版权：unknown
+- 链接：http://ly.yishihui.net/zh-hk/25423.htm
+- 简介：对《烟波钓叟歌》作逐节串解，涵盖源流考证、九宫八门九星八神、历法与超神接气置闰、布局运式及格局要义，并列举《景祐遁甲符应经》等数奇门文献。
+- 备注：页面已打开核实，共1350行；为现代串解注释，作者与版权未显示，故标unknown。未见PDF直链。
+
+### 33. 奇门法窍 郑同点校 奇门遁甲书籍 飞盘奇门要诀秘法 皇宫秘本现世 古代术数典籍 奇门秘法 epub pdf mobi txt 电子书 下载 在线阅读 2026 --静思书屋
+
+- 来源：[清]锡孟樨著，郑同点校 / 静思书屋 (book.tinynews.org)；类型：webpage；语言：zh-CN；相关度：high；访问：unknown；版权：copyrighted_do_not_rehost
+- 链接：https://book.tinynews.org/books/10394772520
+- 简介：该聚合下载站页面介绍清代锡孟樨《奇门法窍》为飞盘奇门典籍，称其含烟波钓叟赋注释与八卷内容，并列出华龄出版社291页、ISBN 9787801788467等出版信息。
+- 备注：属聚合/疑似盗版下载站 listing，仅以搜索结果核实，未下载、未核实其所谓下载链接；现代点校本按copyrighted_do_not_rehost处理。未见可验证的PDF直链。
+
+### 34. Compilation and Research of Ancient Texts on Qimen Dunjia
+
+- 来源：oreateai.com；类型：webpage；语言：en；相关度：medium；访问：free_open；版权：unknown
+- 链接：https://www.oreateai.com/blog/compilation-and-research-of-ancient-texts-on-qimen-dunjia/8ee83eee696e0292c818f4230f9a596f
+- 简介：英文概述称某汇编收录75种古今奇门文献，重点介绍诸葛武侯本《奇门遁甲秘笈大全》、郑兆煌传灯本、张志春现代著作与程道生《遁甲演义》等，并提及文件大小。
+- 备注：页面已打开核实；仅为汇编介绍，未在页面发现可验证的下载链接或PDF直链，所称980MB合集与各文件大小未经独立核实。
+
+### 35. weizeW/mingli-skills
+
+- 来源：weizeW / GitHub；类型：github_repo；语言：zh-CN；相关度：medium；访问：free_open；版权：open_license
+- 链接：https://github.com/weizeW/mingli-skills
+- 简介：面向LLM Agent的五大命理体系工程化Skill系统，其中奇门遁甲部分含45个文件、Python排盘引擎与17个JSON数据文件及断卦SOP。
+- 备注：页面已打开核实：公开仓库，95 stars、16 forks，MIT许可；奇门仅为其中一个体系，且含现代整理内容，故相关度为medium。
+
+### 36. qimendunjia · PyPI
+
+- 来源：PyPI；类型：other；语言：en；相关度：medium；访问：free_open；版权：unknown
+- 链接：https://pypi.org/project/qimendunjia/1.2/
+- 简介：据搜索摘要，该Python包的排盘方法源自明代池本理所著《笺元遁甲句解烟波钓叟歌》，即对《烟波钓叟歌》的注释，并介绍三奇、八门与四盘结构。
+- 备注：browser.open被PyPI客户端验证拦截，未能直接读取页面；仅以搜索摘要核实，许可未核实。属现代代码包而非古籍原文。
+
+### 37. 奇門(術數的一種):簡介,分類,數術奇門,概述,歷史發展,三才之道,八陣,古今書典_中文百科全書
+
+- 来源：中文百科全書 (newton.com.tw)；类型：webpage；语言：zh-TW；相关度：medium；访问：free_open；版权：unknown
+- 链接：https://www.newton.com.tw/wiki/%E5%A5%87%E9%96%80
+- 简介：百科条目概述奇门遁甲源流、分类与三才之道，并在古今书典一节列出《术藏》所收二十余种奇门古籍的作者、版本与卷册。
+- 备注：页面已打开核实；其价值在于提供《术藏》奇门书目线索，而非古籍全文。未见PDF直链。
+
+### 38. 圖解奇門遁甲大全－金石堂
+
+- 来源：陈梦雷等 / 西北国际 / 金石堂；类型：book；语言：zh-TW；相关度：medium；访问：paid；版权：copyrighted_do_not_rehost
+- 链接：https://www.kingstone.com.tw/basic/2012920476078/?lid=2comitem_buy
+- 简介：该书以《古今图书集成》术数部汇考十七至二十六章的奇门内容为底本，作白话提要与图解，并分三部讲解决策方法与时家奇门1080式盘。
+- 备注：页面已打开核实：2015年出版，592页，ISBN 9789865975746，标价458新台币且显示缺货；现代商业图书，不可转存。
+
+## 奇门遁甲 PDF GitHub 开源资料
+
+### 39. Numerologist Skills (你的赛博命理师)
+
+- 来源：FANzR-arch；类型：github_repo；语言：zh-CN；相关度：high；访问：free_open；版权：unknown
+- 链接：https://github.com/FANzR-arch/Numerologist_skills
+- 简介：把奇门遁甲、紫微斗数、八字做成可审计的AI skill工程模块，用规则集和Python CLI固定排盘步骤以减少幻觉。奇门部分用于单事判断、择时、方位和趋吉避凶。
+- 备注：公开仓库；打开页面时显示Stars 1502、Forks 241、Commits 23，含qimen-dunjia目录和scripts/qimen_cli.py；未在打开页面中看到许可证信息。
+
+### 40. 堅奇門 · KinQiMen
+
+- 来源：kentang2017；类型：github_repo；语言：zh-CN；相关度：high；访问：free_open；版权：open_license
+- 链接：https://github.com/kentang2017/kinqimen
+- 简介：Python奇门遁甲排盘系统，包含金函玉镜日家奇门、拆补与置闰时家奇门和刻家奇门排盘，并提供Streamlit线上排盘。说明以洛书九宫为盘，配合阴阳五行、八卦、天干地支和二十四节气。
+- 备注：Stars 170、Forks 60、Commits 661；页面注明MIT授权，另有PyPI包kinqimen。原标题含表情符号，已略去。
+
+### 41. 奇门遁甲排盘系统
+
+- 来源：qfdk；类型：github_repo；语言：zh-CN；相关度：high；访问：free_open；版权：open_license
+- 链接：https://github.com/qfdk/qimen
+- 简介：基于Node.js的奇门遁甲在线排盘系统，遵循茅山派排盘方法，支持转盘排法，包含地盘、天盘、八门、九星、八神和暗干。README还列出阴阳遁局数歌诀和排盘步骤。
+- 备注：Stars 206、Forks 76、Commits 68；仓库详情注明MIT License。
+
+### 42. youngzs/xuanxue
+
+- 来源：youngzs；类型：github_repo；语言：zh-CN；相关度：high；访问：free_open；版权：unknown
+- 链接：https://github.com/youngzs/xuanxue
+- 简介：把玄学、奇门遁甲、八卦和中医古书整理成可用Markdown访问的文档，便于搜索查找。README包含奇门遁甲学习笔记，涉及天干、九星、八门、八神、落宫分析和工作婚姻等预测主题。
+- 备注：Stars 149、Forks 61、Commits 12；未在打开页面中看到许可证信息；不是PDF合集，而是Markdown笔记仓库。
+
+### 43. PDF xuanxue/奇门/神奇之门 - 张志春.pdf at master · apachecn/xuanxue
+
+- 来源：apachecn/xuanxue；类型：github_repo；语言：zh-CN；相关度：high；访问：unknown；版权：copyrighted_do_not_rehost
+- 链接：https://github.com/apachecn/xuanxue/blob/master/奇门/神奇之门+-+张志春.pdf
+- 简介：DDGS搜索结果显示apachecn玄学资料库仓库中有一份名为《神奇之门 - 张志春.pdf》的奇门文件，属现代奇门遁甲入门著作。
+- 备注：仅由DDGS搜索结果返回该文件路径，未能通过browser.open验证（返回400）；pdf_url因此留空。张志春为现代作者，未见授权证据，不得下载或转存。
+
+### 44. 奇门遁甲排盘系统 (Qi Men Dun Jia Calculator)
+
+- 来源：redrockhorse；类型：github_repo；语言：zh-CN；相关度：high；访问：free_open；版权：open_license
+- 链接：https://github.com/redrockhorse/qimenpaipan
+- 简介：基于Python的奇门遁甲排盘系统，主要实现置闰法排盘，计算年月日时干支、节气、符头和三元。
+- 备注：Stars 17、Forks 6、Commits 17；README注明MIT License；运行需天文数据文件de421.bsp。
+
+### 45. 在线奇门
+
+- 来源：Taogram/taobi；类型：github_repo；语言：zh-CN；相关度：high；访问：free_open；版权：open_license
+- 链接：https://github.com/Taogram/taobi
+- 简介：基于JavaScript的在线奇门遁甲摆盘库，二十四节气采用天文VSOP87D算法，可精确至分钟，支持拆补法、茅山法和均分法。
+- 备注：Stars 58、Forks 16、Commits 133；仓库详情注明Mozilla Public License 2.0。
+
+### 46. QiMenDunJia Algorithm
+
+- 来源：Yvainovski；类型：github_repo；语言：en；相关度：high；访问：free_open；版权：open_license
+- 链接：https://github.com/Yvainovski/QiMenDunjia
+- 简介：用Objective-C实现的奇门遁甲排盘算法，基于古代历法完成起局，可集成到图形界面或作为独立命令行程序使用。
+- 备注：Stars 7、Forks 3、Commits 8；仓库详情注明GNU General Public License v3.0；仅含QimenGenerator.h/.m等少量文件。
+
+### 47. An ontology and source-attributed knowledge graph for the computational heritage of Chinese mantic arts: Qimen Dunjia and Meihua Yishu
+
+- 来源：Mingyu Gao；类型：pdf；语言：en；相关度：medium；访问：free_open；版权：open_license
+- 链接：https://www.researchsquare.com/article/rs-10868814/v1.pdf?c=1790074934000
+- PDF 链接：https://www.researchsquare.com/article/rs-10868814/v1.pdf?c=1790074934000
+- 简介：研究奇门遁甲与梅花易数的本体论和知识图谱，基于40部前现代典籍和4项现代研究建立来源可追溯的规则语料库，并记录21个分歧点。文中称配套数据在GitHub仓库以CC-BY 4.0发布。
+- 备注：PDF正文注明Creative Commons Attribution 4.0 International License，DOI为10.21203/rs.3.rs-10868814/v1；语料含《奇门遁甲统宗》《奇门遁甲秘笈大全》等21种奇门典籍。
+
+### 48. 高俊波 先生《奇门遁甲》资料汇编 16开42页
+
+- 来源：高俊波，上传者 Jeff Ong，Scribd；类型：webpage；语言：zh-CN；相关度：medium；访问：unknown；版权：copyrighted_do_not_rehost
+- 链接：https://www.scribd.com/document/396254552/高俊波-先生-奇门遁甲-资料汇编-16开42页
+- 简介：高俊波所著奇门遁甲资料汇编，目录包括奇门含义、流派区别、起局基础、拆补法起局、预测原则、天气预测、商业策划应用和预测实例。
+- 备注：页面显示43页、493次浏览，注明© All Rights Reserved，可下载为DOC/PDF/TXT；未验证下载是否需注册，故access为unknown，不得转存。
+
+### 49. 奇門遁甲 Qimen Dunjia
+
+- 来源：Maximilian-Winter；类型：github_repo；语言：en；相关度：medium；访问：free_open；版权：unknown
+- 链接：https://github.com/Maximilian-Winter/Qimen-Dunjia
+- 简介：Python奇门遁甲计算框架，基于道藏古典文本，提供五盘、九宫、二十四节气、阴阳遁、三元计算和40多种格局分析，并可导出HTML报告。
+- 备注：Stars 2、Forks 1、仅1个Commit；未在打开页面中看到许可证信息；README列出的古典来源为黄帝太一八门相关诀文。
+
+### 50. 奇门遁甲和六壬六爻八字的库
+
+- 来源：lusing；类型：github_repo；语言：zh-CN；相关度：medium；访问：free_open；版权：unknown
+- 链接：https://github.com/lusing/qimen
+- 简介：计划支持C++、Go、Rust、Kotlin等语言的奇门遁甲与六壬六爻八字库，README列出《神奇之门》《开悟之门》等奇门参考书目。
+- 备注：Stars 15、Forks 5、Commits 183；未在打开页面中看到许可证信息；所列书目为参考文献，并非仓库内PDF。
+
+## 天师奇门遁甲
+
+### 51. 奇門遁甲
+
+- 来源：zh.wikipedia.org；类型：webpage；语言：zh-TW；相关度：medium；访问：free_open；版权：unknown
+- 链接：https://zh.wikipedia.org/wiki/%E5%A5%87%E9%96%80%E9%81%81%E7%94%B2
+- 简介：介绍奇门遁甲的含义、三奇六仪、八门九星八神、传说起源与历史记载，并区分了数理奇门与法术奇门。页面未出现“天师奇门遁甲”这一确切名称。
+- 备注：已打开页面全文核实；属基础性百科条目，含日本流传书目与《三国演义》《水浒传》中的相关记载。
+
+### 52. 掌握帝王之術：奇門遁甲 如何使用？從排盤到實戰吉凶判斷全解析
+
+- 来源：UpToGo；类型：webpage；语言：zh-TW；相关度：medium；访问：free_open；版权：unknown
+- 链接：https://uptogo.com.tw/%e5%91%bd%e7%90%86/%e5%a5%87%e9%96%80%e9%81%81%e7%94%b2-%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8%ef%bc%9f/
+- 简介：讲解奇门遁甲的四盘结构、时家奇门排盘步骤，以及预测、择日布局与出行奇方等实战应用。内容为通用奇门遁甲入门，未提及“天师”专属体系。
+- 备注：已打开页面全文核实；发布于2026-01-06，含主客关系与常见吉凶格局说明。
+
+### 53. Qimen Dunjia: Chinese Mystical Divination & Its Uses
+
+- 来源：Paul Peng；类型：webpage；语言：en；相关度：medium；访问：free_open；版权：unknown
+- 链接：https://longhumountain.com/blogs/introduction-to-taoism-q-a/what-is-qi-men-dun-jia-%E5%A5%87%E9%97%A8%E9%81%81%E7%94%B2
+- 简介：用英文解释奇门遁甲的三奇、八门、遁甲含义与天、地、人三盘，并称其可用于预测与选择吉时吉方。作者为龙虎山正一派道士，该山为天师传统祖庭，但文章本身未使用“天师奇门遁甲”这一名称。
+- 备注：已打开页面核实；作者介绍称其为龙虎山天师府授权店铺的策展人之一，文章更新于2026-05-02。
+
+### 54. 奇門遁甲秘笈大全 故宮藏本術數叢刊 奇門書籍 諸葛亮 著 鄭同點校 華齡齣版社 pdf epub mobi txt 電子書 下載  在線閱讀 2026 -求知书站
+
+- 来源：(漢)諸葛武侯|校注:鄭同；类型：webpage；语言：zh-TW；相关度：medium；访问：unknown；版权：copyrighted_do_not_rehost
+- 链接：https://tushu.tinynews.org/books/12276149801
+- 简介：该页面为《奇门遁甲秘笈大全》的图书信息 listing，介绍其三十卷加《金函玉镜图》六卷，收录奇门源流、起例、占断与法术奇门等内容。页面标题含下载字样，但未验证到可用的PDF链接，且与“天师”无直接关联。
+- 备注：已打开页面核实；华龄出版社2013-01-01出版，294页、398千字、ISBN 9787516902073、定价48元；该站外观为盗版聚合 listing，仅记录为网页，未下载，切勿重新托管。
+
+### 55. 奇門遁甲 (1982年電影)
+
+- 来源：袁和平；类型：video；语言：zh-TW；相关度：medium；访问：free_open；版权：unknown
+- 链接：http://zh.wikipedia.org/wiki/%E5%A5%87%E9%96%80%E9%81%81%E7%94%B2_(1982%E5%B9%B4%E9%9B%BB%E5%BD%B1)
+- 简介：这是1982年袁和平执导的香港动作电影条目，剧情中树根争夺“五雷天师令”，蝙蝠法师被张天师坐骑神兽所杀。这是本次检索中唯一同时出现奇门遁甲与天师令、天师会情节的结果，但属于虚构电影而非典籍。
+- 备注：已打开条目核实；片长101分钟，1982年7月23日香港上映，提名第2届香港电影金像奖最佳武术指导。
+
+### 56. 奇门遁甲
+
+- 来源：周德东；类型：pdf；语言：zh-CN；相关度：low；访问：free_open；版权：copyrighted_do_not_rehost
+- 链接：https://archive.org/download/ReadFinechinarchive/Qi%20Men%20Dun%20Jia%20%20-%20Zhou%20De%20Dong.pdf
+- PDF 链接：https://archive.org/download/ReadFinechinarchive/Qi%20Men%20Dun%20Jia%20%20-%20Zhou%20De%20Dong.pdf
+- 简介：这是周德东的长篇悬疑小说《奇门遁甲》，以死胡同雷击事件与奇门遁甲传说展开情节，并非术数教材或天师典籍。PDF文本已通过浏览器打开核实，含目录与版权页信息。
+- 备注：PDF链接已打开验证；新星出版社2007年9月第1版，ISBN 978-7-80225-339-1，260千字，定价25.00元，现代商业小说，切勿转载或重新托管。
