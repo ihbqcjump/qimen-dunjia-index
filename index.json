@@ -2,7 +2,7 @@
   "meta": {
     "title": "奇门遁甲资料索引库：阴盘 / 天师 / 道家",
     "created": "2026-10-27",
-    "total": 56,
+    "total": 58,
     "success_count": 5,
     "failure_count": 0,
     "inputs": [
@@ -10,9 +10,10 @@
       "天师奇门遁甲",
       "道家奇门遁甲",
       "奇门遁甲 PDF GitHub 开源资料",
-      "奇门遁甲 古籍 经典 公开资料"
+      "奇门遁甲 古籍 经典 公开资料",
+      "DDGS 第一批 PDF 定向搜索（2026-10-27）"
     ],
-    "coverage_note": "未找到标题恰好为“天师奇门遁甲”的可验证书籍、PDF 或 GitHub 仓库，天师方向仅有近似匹配；仅有 4 个 pdf_url 被保留，其中 2 个为未打开验证的搜索结果 .pdf 链接；未下载、未上传、未转载托管任何文件。",
+    "coverage_note": "未找到标题恰好为“天师奇门遁甲”的可验证书籍、PDF 或 GitHub 仓库，天师方向仅有近似匹配；DDGS 第一批（2026-10-27，6 个 PDF 查询、51 条结果、去重 44 条）新增 2 条公有领域《遁甲演义》来源（第 57、58 条），其余 37 条新候选未同步，待逐条核实；保留 pdf_url 的条目为 5 条；未下载、未上传、未转载托管任何文件。",
     "copyright_rule": "copyrighted_do_not_rehost 表示现代商业作品，仅索引书目与来源，不得下载转载托管；public_domain / open_license 需以来源页面声明为准，本库未独立断言未见声明的古籍版权。"
   },
   "results": [
@@ -856,6 +857,36 @@
       "access": "free_open",
       "copyright_status": "copyrighted_do_not_rehost",
       "notes": "PDF链接已打开验证；新星出版社2007年9月第1版，ISBN 978-7-80225-339-1，260千字，定价25.00元，现代商业小说，切勿转载或重新托管。"
+    },
+    {
+      "id": 57,
+      "term": "奇门遁甲 古籍 经典 公开资料",
+      "title": "遁甲演義·卷一~卷二 : （明）程道生",
+      "author_or_source": "明程道生 / Internet Archive",
+      "type": "classical_text",
+      "url": "https://archive.org/details/06056496.cn",
+      "pdf_url": "",
+      "language": "zh-Hant",
+      "description": "Internet Archive 上的《遁甲演义》卷一至卷二影印古籍，钦定四库全书·子部七·术数类，全书4卷拆成2册，含 OCR 文本。",
+      "relevance": "high",
+      "access": "free_open",
+      "copyright_status": "public_domain",
+      "notes": "2026-10-27 DDGS 第一批发现，browser.open 打开核实：页面共18行，显示本书4卷拆成2册、影印古籍、钦定四库全书·子部七·术数类，2009-10-12 上传，ark:/13960/t8rb7kk12；未下载，未验证直接 PDF 链接，pdf_url 留空。"
+    },
+    {
+      "id": 58,
+      "term": "奇门遁甲 古籍 经典 公开资料",
+      "title": "遁甲演義 明程道生編輯 清抄本（天一阁博物院藏）",
+      "author_or_source": "明程道生編輯 / Wikimedia Commons / Tianyi Pavilion Museum",
+      "type": "pdf",
+      "url": "https://commons.wikimedia.org/wiki/File:Tianyige-330000-1705-0007356_遁甲演義_明程道生編輯_清抄本.pdf",
+      "pdf_url": "https://commons.wikimedia.org/wiki/File:Tianyige-330000-1705-0007356_遁甲演義_明程道生編輯_清抄本.pdf",
+      "language": "zh-Hant",
+      "description": "天一阁博物院藏《遁甲演义》一卷清抄本的 PDF 扫描件，维基共享资源页面标注为公有领域，共28页。",
+      "relevance": "high",
+      "access": "free_open",
+      "copyright_status": "public_domain",
+      "notes": "2026-10-27 DDGS 第一批发现，browser.open 返回403后改用浏览器任务只读核实并确认页面加载成功：标题遁甲演義一卷，作者明程道生編輯，版本抄本，出版日期清，1冊，来源天一阁博物院；许可为公有领域，机械扫描件、无已知版权限制；PDF 28页，18.02 MB；未下载。"
     }
   ]
 }
